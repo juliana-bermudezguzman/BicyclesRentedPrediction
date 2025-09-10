@@ -32,11 +32,11 @@ The dataset contains daily records of bike rentals along with various explanator
 ---
 
 ## ⚙️ Project Structure  
-
+```
 ├── PUNTO2.ipynb # Main Jupyter notebook with full analysis
 ├── data/ # Dataset files (not included in repo)
 ├── README.md # Project description (this file)
-
+```
 
 ---
 
